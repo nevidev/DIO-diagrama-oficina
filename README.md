@@ -2,8 +2,6 @@
 
 - Diagrama feito como atividade do curso de ciência de dados pela DIO.
 - Abaixo está um diagrama feito para o relacionamento entre tabelas sobre uma oficina fictícia.
-- O **Language Studio** é extremamente eficaz para automatizar a análise de sentimentos e o reconhecimento de padrões em grandes volumes de texto.
-- A integração dos dois serviços pode resultar em aplicações completas de voz e linguagem, como assistentes virtuais e bots inteligentes.
 
 ### **Objetivo:**
 
